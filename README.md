@@ -14,7 +14,7 @@ I'm interested in web development and blockchain.
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=py,html,css,js,solidity,mysql,=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=linux,githubactions,django,docker,git,=7" />
+    <img src="https://skillicons.dev/icons?i=linux,redux,githubactions,react,docker,git,=7" />
   </p>
 </details>
 
