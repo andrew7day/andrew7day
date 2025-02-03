@@ -18,3 +18,8 @@ I'm interested in web development and blockchain.
   </p>
 </details>
 
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/andrew7day/github-profile-views-counter">
+       <img width="75px" src="https://komarev.com/ghpvc/?username=andrew7day&color=DE002D">
+   </a>
+</div>
