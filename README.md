@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">👋 Hello! I'm Andrew </h1>
 
-<!--
-**andrew7day/andrew7day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/andrewapp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I recently started learning programming.
+
+I'm interested in web development and blockchain.
+
+<details align="left">
+  <summary><h2><b>📚 My stack</b></h2></summary>
+  <p>
+    <h3>Langs</h3>
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,solidity,mysql,=7" />
+    <h3>Frameworks / Tools</h3>
+    <img src="https://skillicons.dev/icons?i=linux,githubactions,django,docker,git,=7" />
+  </p>
+</details>
+
